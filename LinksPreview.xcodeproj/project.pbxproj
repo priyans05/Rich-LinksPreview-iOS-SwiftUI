@@ -26,6 +26,7 @@
 		92E368F324410C12000FB403 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92E368F524410C12000FB403 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92E368FB24410C28000FB403 /* LinkCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkCell.swift; sourceTree = "<group>"; };
+		92E368FD2441247D000FB403 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		92E368DB24410C10000FB403 = {
 			isa = PBXGroup;
 			children = (
+				92E368FD2441247D000FB403 /* README.md */,
 				92E368E624410C10000FB403 /* LinksPreview */,
 				92E368E524410C10000FB403 /* Products */,
 			);
